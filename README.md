@@ -1,4 +1,3 @@
-# ai-crm-sales-campaign
 
 
 # AI-Enhanced Sales Campaign CRM
