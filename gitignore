@@ -1,0 +1,18 @@
+# Environment
+.env
+env/
+venv/
+
+# Google Credentials
+google_credentials.json
+google_credentials_desktop.json
+gmail_token.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Reports
+campaign_report.txt
