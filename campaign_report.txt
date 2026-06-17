@@ -1,0 +1,26 @@
+
+=== AI CRM CAMPAIGN REPORT ===
+Generated: 2026-06-17 12:14:05
+
+LEADS OVERVIEW
+--------------
+Total Leads         : 4
+Email Verified (Y)  : 4
+
+LEAD PRIORITY
+-------------
+High Priority       : 2
+Medium Priority     : 2
+Low Priority        : 0
+
+RESPONSE CLASSIFICATION
+-----------------------
+Interested          : 3
+Not Interested      : 0
+Request More Info   : 0
+No Response         : 1
+
+INSIGHT
+-------
+Conversion Rate     : 75.0%
+Top Priority Leads  : 2 leads scored High
